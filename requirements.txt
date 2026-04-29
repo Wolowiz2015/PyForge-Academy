@@ -1,0 +1,11 @@
+# Core — required to run the app
+PySide6>=6.6
+
+# Optional — needed only for specific lessons. Comment out if you want a
+# minimal install; the app itself runs fine without these.
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+httpx>=0.27
+fastapi>=0.110
+pydantic>=2.5
